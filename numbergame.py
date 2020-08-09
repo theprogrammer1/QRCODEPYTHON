@@ -11,3 +11,4 @@ while guess != number:
         print("You  need to guess lower. Try again")
         guess = int(input("\nGuess a number between 1 and 50: "))
 print("You guessed the number correctly!")
+# link where you can test the code: https://The-Guess-The-Number-Game.omerf212.repl.run
